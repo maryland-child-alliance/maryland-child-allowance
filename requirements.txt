@@ -11,3 +11,4 @@ black
 python-dotenv>=0.5.1
 plotly
 git+https://github.com/PSLmodels/microdf.git
+geopandas
