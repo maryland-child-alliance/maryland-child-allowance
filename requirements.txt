@@ -9,6 +9,9 @@ awscli
 flake8
 black
 python-dotenv>=0.5.1
+pandas
 plotly
 git+https://github.com/PSLmodels/microdf.git
 geopandas
+jsonschema>-3.0.2
+matplotlib
