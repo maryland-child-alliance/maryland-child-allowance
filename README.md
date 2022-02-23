@@ -1,13 +1,22 @@
 Maryland Child Allowance
-==============================
+========================
 
 An analysis of a state-level child allowance in each of Marylands new legislative districts
 
+
+## Data
+
+Data files may be too large to upload to github. They can be found at the following AWS s3 strorage bucket:
+
+https://maryland-child-allowance.s3.amazonaws.com/data/
+
+See the below project organization structure for details.
+
 Project Organization
-------------
+--------------------
 
     ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
+    ├── Makefile           <- Makefile with commands like`make data` or `make train`
     ├── README.md          <- The top-level README for developers using this project.
     ├── data
     │   ├── external       <- Data from third party sources.
@@ -51,7 +60,6 @@ Project Organization
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
-
---------
+---
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
