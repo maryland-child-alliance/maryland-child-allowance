@@ -12,6 +12,7 @@ python-dotenv>=0.5.1
 pandas
 plotly
 git+https://github.com/PSLmodels/microdf.git
-geopandas
+# This is a mess on windows, and I'm not entirely sure that we'll need it
+# geopandas
 jsonschema>-3.0.2
 matplotlib
